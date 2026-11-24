@@ -19,6 +19,13 @@ module.exports = {
         success: "#4ADE80",
         warning: "#FBBF24",
         danger: "#F87171",
+
+        wallet: {
+          licence: "#365578",
+          residence: "#3B675E",
+          passport: "#784651",
+          health: "#555375",
+        },
       },
     },
   },
